@@ -1,0 +1,12 @@
+C:\Users\Arthu\Faculdade\P2.NET\GestaoGastos\GestaoGastos.Data\bin\Debug\netcoreapp3.1\GestaoGastos.Data.deps.json
+C:\Users\Arthu\Faculdade\P2.NET\GestaoGastos\GestaoGastos.Data\bin\Debug\netcoreapp3.1\GestaoGastos.Data.runtimeconfig.json
+C:\Users\Arthu\Faculdade\P2.NET\GestaoGastos\GestaoGastos.Data\bin\Debug\netcoreapp3.1\GestaoGastos.Data.runtimeconfig.dev.json
+C:\Users\Arthu\Faculdade\P2.NET\GestaoGastos\GestaoGastos.Data\bin\Debug\netcoreapp3.1\GestaoGastos.Data.dll
+C:\Users\Arthu\Faculdade\P2.NET\GestaoGastos\GestaoGastos.Data\bin\Debug\netcoreapp3.1\GestaoGastos.Data.pdb
+C:\Users\Arthu\Faculdade\P2.NET\GestaoGastos\GestaoGastos.Data\obj\Debug\netcoreapp3.1\GestaoGastos.Data.csproj.AssemblyReference.cache
+C:\Users\Arthu\Faculdade\P2.NET\GestaoGastos\GestaoGastos.Data\obj\Debug\netcoreapp3.1\GestaoGastos.Data.AssemblyInfoInputs.cache
+C:\Users\Arthu\Faculdade\P2.NET\GestaoGastos\GestaoGastos.Data\obj\Debug\netcoreapp3.1\GestaoGastos.Data.AssemblyInfo.cs
+C:\Users\Arthu\Faculdade\P2.NET\GestaoGastos\GestaoGastos.Data\obj\Debug\netcoreapp3.1\GestaoGastos.Data.csproj.CoreCompileInputs.cache
+C:\Users\Arthu\Faculdade\P2.NET\GestaoGastos\GestaoGastos.Data\obj\Debug\netcoreapp3.1\GestaoGastos.Data.dll
+C:\Users\Arthu\Faculdade\P2.NET\GestaoGastos\GestaoGastos.Data\obj\Debug\netcoreapp3.1\GestaoGastos.Data.pdb
+C:\Users\Arthu\Faculdade\P2.NET\GestaoGastos\GestaoGastos.Data\obj\Debug\netcoreapp3.1\GestaoGastos.Data.genruntimeconfig.cache
